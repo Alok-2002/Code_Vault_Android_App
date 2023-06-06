@@ -86,6 +86,6 @@ This app was developed with the help of the following resources:
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please contact [your-name] at [your-email].
+If you have any questions, suggestions, or issues, please contact [Alok Sharma] at [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com).
 
 Happy encrypting and decrypting with Code Vault!
