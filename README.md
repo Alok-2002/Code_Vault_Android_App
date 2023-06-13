@@ -4,10 +4,11 @@ Code Vault is an Android application developed using Android Studio that provide
 This app allows users to securely store and share sensitive information by encoding it into Base64 format with a secret key.
 
 
+![Screenshot 2023-06-06 171350](https://github.com/Alok-2002/Code_Vault_Android_App/assets/93814546/4a1c011f-37e2-4e48-935b-10ffb9eaacf7)
 
 
 
-![image](https://github.com/Alok-2002/Code_Vault_Android_App/assets/93814546/8736931f-608b-42d8-8138-8a7fe1caf0e8)
+
 
 
 
