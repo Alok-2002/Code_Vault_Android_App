@@ -1,5 +1,10 @@
 ## Code Vault - Android App
 
+![GitHub](https://img.shields.io/github/license/alok-2002/Code_Vault_Android_App)
+![GitHub last commit](https://img.shields.io/github/last-commit/alok-2002/Code_Vault_Android_App)
+![GitHub stars](https://img.shields.io/github/stars/alok-2002/Code_Vault_Android_App)
+![GitHub forks](https://img.shields.io/github/forks/alok-2002/Code_Vault_Android_App)
+
 Code Vault is an Android application developed using Android Studio that provides encryption and decryption of text using the Base64 algorithm and a secret key. 
 This app allows users to securely store and share sensitive information by encoding it into Base64 format with a secret key.
 
